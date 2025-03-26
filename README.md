@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="https://github.com/CJKennedy00/SoulCalibreLLC-Giveaway/blob/08c03e9a30ac33c3c9f98ce769353610bf3c2e7b/public/snapshot.png"/></div>
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/CJKennedy00/SoulCalibreLLC-Giveaway/refs/heads/main/public/snapshot.png"/></div>
 
 # React + TypeScript + Vite
 
